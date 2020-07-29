@@ -42,3 +42,19 @@ Postman (Update Version as soon as you run your project)
 `Start Coding & planning`
 
 
+Writing more and more.
+
+I have been adjusting my thinking how to build a full stack application.
+
+By just doing and making mistakes over and over again.
+
+How do I start my projects?
+
+Start by getting free components and start building a fresh application.<br>
+After building a project try to destructure your components.<br>
+Just change your code, but do not forgot to keep your code clean.<br>
+Do not make a spaghetti-code.  
+
+Keep on moving forward, every moment you learn a new skill, that means you are making progress.
+
+Of course you need to keep on repeating and testing your own code if it is what you expected. 
