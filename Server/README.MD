@@ -1,10 +1,10 @@
 # Server - BACK-END
 
 Using Java as primaire language in the back-end to create logica.
-Get User
-Post User
-Delete User
-Update User
+- Get User
+- Post User
+- Delete User
+- Update User
 
 
 
