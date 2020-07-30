@@ -3,7 +3,16 @@
 #### BACK-END
 - Java 11
 - Spring boot
-- PostgreSQL
+- PostgreSQL || MongoDB == NoSQL
+    
+   @SQL databases are table based databases.<br>
+   @NoSQL databases can be document based, key-value pairs, graph databases. 
+  
+  @SQL databases are vertically scalable.
+  @NoSQL databases are horizontally scalable.
+   
+  @SQL databases have a predefined schema.
+  @NoSQL databases use a dynamic schema for unstructured data.
 - NodeJs
 
 
@@ -57,4 +66,7 @@ Do not make a spaghetti-code.
 
 Keep on moving forward, every moment you learn a new skill, that means you are making progress.
 
-Of course you need to keep on repeating and testing your own code if it is what you expected. 
+Of course, you need to keep on repeating and testing your own code if it is what you expected. 
+
+
+Support Readme will be added for more info and a guideline.
