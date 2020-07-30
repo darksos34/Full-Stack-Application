@@ -46,13 +46,19 @@ Postman (Update Version as soon as you run your project)
 
 `Add Hyperlinks`
 
-`Add Tutorial`
+`Add Tutorial & Video context`
 
 `Add Documentation`
 
-`Add comments`
+`Add Comments`
 
-`Start Coding & planning`
+`Start Coding`
+
+`UML Diagram`
+
+`Security check`
+
+`UI/UX Design`
 
 
 Writing more and more.
