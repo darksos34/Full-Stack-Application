@@ -1,5 +1,14 @@
 ## Server - BACK-END
 
+- Using Java as primaire language in the back-end to create logica.
+- Get User
+- Put User
+- Delete User
+- Update User
+
+
+
+
 ### Pom.XML  
 - Dependencies
 
