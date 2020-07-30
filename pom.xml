@@ -11,7 +11,7 @@
     <groupId>com.FullStackAppMix</groupId>
     <artifactId>fullstackapplication</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>fullstackapplication</name>
+    <name>FullStackApplication</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
