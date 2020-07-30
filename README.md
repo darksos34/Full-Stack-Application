@@ -4,6 +4,7 @@
 - Java 11
 - Spring boot
 - PostgreSQL || MongoDB == NoSQL
+- NodeJs
     
    @SQL databases are table based databases.<br>
    @NoSQL databases can be document based, key-value pairs, graph databases. 
@@ -13,7 +14,7 @@
    
   @SQL databases have a predefined schema.
   @NoSQL databases use a dynamic schema for unstructured data.
-- NodeJs
+
 
 
 #### FRONT-END
@@ -26,6 +27,7 @@
 #### Tools
 
 IntelliJ IDEA 2020.2
+
 Postman (Update Version as soon as you run your project)
 
 
