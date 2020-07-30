@@ -1,7 +1,5 @@
 
 *.xml
 .idea
-Server/mvnw
-mvnw
+
 *.cmd
-mvnw
