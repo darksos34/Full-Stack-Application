@@ -22,6 +22,8 @@
 - HTML5
 - CSS3
 - JS (Update Version as soon as you run your project)
+- JSX Files
+- TypeScript
 - React Hooks
 
 #### Tools
