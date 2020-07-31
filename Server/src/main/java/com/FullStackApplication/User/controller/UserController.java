@@ -1,12 +1,28 @@
+
+/*
+ *
+ *  * Coding for fun created by Darksos34.
+ *  * Copyright (c) 2020.
+ *  * All rights reserved by Jordy Hamwijk
+ *  * Learning Computer Language.
+ *
+ */
+
 package com.FullStackApplication.User.controller;
 
 // Request mapping
 // Restcontroller, link to acces GET,POST,PUT DELETE
 
+import com.FullStackApplication.User.model.User;
+import com.FullStackApplication.User.service.UserService;
 import lombok.RequiredArgsConstructor;
-import org.springframework.web.bind.annotation.CrossOrigin;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
+
+import javax.validation.Valid;
+import java.util.List;
+import java.util.Optional;
+
+
 
 @RequiredArgsConstructor // Lombok to create the Required Args Constructor
 @CrossOrigin(origins="http://localhost:3000", maxAge = 3600) // Cross origin allowed for port 3000

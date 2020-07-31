@@ -1,4 +1,23 @@
+/*
+ *
+ *  * Coding for fun created by Darksos34.
+ *  * Copyright (c) 2020.
+ *  * All rights reserved by Jordy Hamwijk
+ *  * Learning Computer Language.
+ *
+ */
+
 package com.FullStackApplication.User.service;
+
+import com.FullStackApplication.User.model.User;
+import com.FullStackApplication.User.repository.UserRepository;
+import lombok.RequiredArgsConstructor;
+import org.springframework.stereotype.Service;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Optional;
+
 @RequiredArgsConstructor // Lombok to create the Required Args Constructor
 @Service // Instruct Spring Boot that this is the Service layer
 public class UserService {
