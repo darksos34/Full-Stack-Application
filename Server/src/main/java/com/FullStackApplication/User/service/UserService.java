@@ -26,12 +26,22 @@ public class UserService {
     private final UserRepository userRepository; // Class from which methods are being imported
 
     // Get all users
+
+
     public List<User> getAllUsers() { // Generate function
         List<User> users = new ArrayList<>();
         userRepository.findAll() // Call JPA function via the Repository
                 .forEach(users::add);
         return users;  //return list of users
     }
+/*
+* compare these 2 codes to check wich one is working correct
+* */
+
+//    public List<User> getAllUsers() { // Generate function
+//        // Call JPA function via the Repository
+//        return new ArrayList<>(userRepository.findAll());  //return list of users
+//    }
 
     // Get user by ID
     public Optional<User> getUserById(Long id) { // Generate function
