@@ -1,3 +1,5 @@
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -70,3 +72,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ![Mobile print screen Navbar](https://raw.githubusercontent.com/darksos34/Full-Stack-Application/master/Images/Mobile%20samsung%20S5%20%20Printscreen%20Responsive.png)
 
+[Contributed by Jordy](https://github.com/darksos34/)

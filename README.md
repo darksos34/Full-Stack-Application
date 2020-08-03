@@ -6,8 +6,8 @@
 - PostgreSQL || MongoDB == NoSQL
 - NodeJs
     
-   @SQL databases are table based databases.<br>
-   @NoSQL databases can be document based, key-value pairs, graph databases. 
+  @SQL databases are table based databases.<br>
+  @NoSQL databases can be document based, key-value pairs, graph databases. 
   
   @SQL databases are vertically scalable.
   @NoSQL databases are horizontally scalable.
