@@ -34,6 +34,14 @@ export default function ButtonAppBar() {
     return (
         <div className={classes.root}>
             <AppBar position="static">
+                {/*
+                - Add Menu
+                - Add more 1 page every day
+                - find auto update for dependencies
+                - security check
+              
+
+                */}
 
                 <Toolbar>
                     <IconButton edge="start" className={classes.menuButton} color="inherit" aria-label="menu">
