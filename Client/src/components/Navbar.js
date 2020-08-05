@@ -22,21 +22,20 @@ import HomePage from "./Home/HomePage";
 const useStyles = makeStyles((theme) => ({
     root: {
         flexGrow: 1,
+
     },
     menuButton: {
         marginRight: theme.spacing(2),
+
     },
     title: {
         flexGrow: 1,
     },
 
+    backgroundImage: Background,
 }));
 
-const sectionStyle = {
-    width: "50%",
-    height: "200px",
-    backgroundImage: "url(" + { Background } + ")"
-};
+
 export default function ButtonAppBar() {
     const classes = useStyles();
 
@@ -64,7 +63,8 @@ export default function ButtonAppBar() {
             </AppBar>
 
 
-            <img src={logo} className="App-logo" alt="logo" />
+            <img src={logo} className="App-logo" alt="logo"/>
+
             <p>
                 Keep up the good vibes
 
@@ -74,11 +74,12 @@ export default function ButtonAppBar() {
                 href="https://github.com/darksos34/Full-Stack-Application"
                 target="_blank"
                 rel="noopener noreferrer"
-            >
+            ><img src={ Background }  alt="app"/>
                 Created by DarkSoS
 
             </a>
-            <img src={ Background } />
+
         </div>
+
     );
 }
