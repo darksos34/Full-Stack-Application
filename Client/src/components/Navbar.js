@@ -15,7 +15,7 @@ import Button from '@material-ui/core/Button';
 import IconButton from '@material-ui/core/IconButton';
 import MenuIcon from '@material-ui/icons/Menu';
 import logo from "../logo.svg";
-
+import Background from "./Home/Background.png";
 import HomePage from "./Home/HomePage";
 
 
@@ -29,8 +29,14 @@ const useStyles = makeStyles((theme) => ({
     title: {
         flexGrow: 1,
     },
+
 }));
 
+const sectionStyle = {
+    width: "50%",
+    height: "200px",
+    backgroundImage: "url(" + { Background } + ")"
+};
 export default function ButtonAppBar() {
     const classes = useStyles();
 
@@ -72,7 +78,7 @@ export default function ButtonAppBar() {
                 Created by DarkSoS
 
             </a>
-
+            <img src={ Background } />
         </div>
     );
 }
