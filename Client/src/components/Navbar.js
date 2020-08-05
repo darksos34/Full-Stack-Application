@@ -15,6 +15,7 @@ import Button from '@material-ui/core/Button';
 import IconButton from '@material-ui/core/IconButton';
 import MenuIcon from '@material-ui/icons/Menu';
 import logo from "../logo.svg";
+
 import HomePage from "./Home/HomePage";
 
 
@@ -48,9 +49,9 @@ export default function ButtonAppBar() {
                         General
                     </Typography>
 
-                    <IconButton color="inherit"  onClick={HomePage}>
-                        <MenuIcon/>
-                    </IconButton>
+                    <Button color="inherit"  a href={HomePage}>
+                        Home
+                    </Button>
 
                     <Button color="inherit">Login</Button>
                 </Toolbar>
