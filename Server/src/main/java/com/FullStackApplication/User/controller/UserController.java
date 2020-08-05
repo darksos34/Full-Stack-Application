@@ -10,9 +10,6 @@
 
 package com.FullStackApplication.User.controller;
 
-// Request mapping
-// Restcontroller, link to acces GET,POST,PUT DELETE
-
 import com.FullStackApplication.User.model.User;
 import com.FullStackApplication.User.service.UserService;
 import lombok.RequiredArgsConstructor;
