@@ -10,11 +10,14 @@
 import React  from "react";
 
 import makeStyles from "@material-ui/core/styles/makeStyles";
+import Jordy from "./jordy/Jordy";
+
 
 const useStyles = makeStyles(() => ({
     root: {
         flexGrow: 1,
     },
+
 }));
 
 const HomePage = () => {
@@ -22,7 +25,17 @@ const HomePage = () => {
 
     return (
         <div className={classes.root}>
+            <div>
 
+                <div
+                    style={{
+                        backgroundImage: `url("https://www.nicesnippets.com/image/imgpsh_fullsize.png")`,backgroundRepeat: 'no-repeat',width:'250px',height:'250px',color:'white'
+                    }}>
+                    Nice Snippets
+                </div>
+                <Jordy/>
+
+            </div>
            GG vibes
         </div>
     );

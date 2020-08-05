@@ -14,9 +14,9 @@ import Typography from '@material-ui/core/Typography';
 import Button from '@material-ui/core/Button';
 import IconButton from '@material-ui/core/IconButton';
 import MenuIcon from '@material-ui/icons/Menu';
-import logo from "../logo.svg";
-import Background from "../ImagesFront-end/Background.png";
-import HomePage from "./Home/HomePage";
+import logo from "../../logo.svg";
+import Background from "../../imagesFront-end/Background.png";
+import HomePage from "../pages/HomePage";
 
 
 const useStyles = makeStyles((theme) => ({
