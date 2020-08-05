@@ -15,7 +15,7 @@ import Button from '@material-ui/core/Button';
 import IconButton from '@material-ui/core/IconButton';
 import MenuIcon from '@material-ui/icons/Menu';
 import logo from "../logo.svg";
-import Background from "./Home/Background.png";
+import Background from "../ImagesFront-end/Background.png";
 import HomePage from "./Home/HomePage";
 
 
