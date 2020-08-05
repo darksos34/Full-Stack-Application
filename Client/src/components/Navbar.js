@@ -7,13 +7,15 @@
  *
  */
 import React from 'react';
-import { makeStyles } from '@material-ui/core/styles';
+import {makeStyles} from '@material-ui/core/styles';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
 import Button from '@material-ui/core/Button';
 import IconButton from '@material-ui/core/IconButton';
 import MenuIcon from '@material-ui/icons/Menu';
+import logo from "../logo.svg";
+import HomePage from "./Home/HomePage";
 
 
 const useStyles = makeStyles((theme) => ({
@@ -33,26 +35,43 @@ export default function ButtonAppBar() {
 
     return (
         <div className={classes.root}>
-            <AppBar position="static">
-                {/*
-                - Add Menu
-                - Add more 1 page every day
-                - find auto update for dependencies
-                - security check
-              
 
-                */}
+            <AppBar position="static">
 
                 <Toolbar>
                     <IconButton edge="start" className={classes.menuButton} color="inherit" aria-label="menu">
                         <MenuIcon />
+
                     </IconButton>
+
                     <Typography variant="h6" className={classes.title}>
                         General
                     </Typography>
+
+                    <IconButton color="inherit"  onClick={HomePage}>
+                        <MenuIcon/>
+                    </IconButton>
+
                     <Button color="inherit">Login</Button>
                 </Toolbar>
             </AppBar>
+
+
+            <img src={logo} className="App-logo" alt="logo" />
+            <p>
+                Keep up the good vibes
+
+            </p>
+            <a
+                className="App-link"
+                href="https://github.com/darksos34/Full-Stack-Application"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                Created by DarkSoS
+
+            </a>
+
         </div>
     );
 }
