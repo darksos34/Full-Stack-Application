@@ -41,24 +41,6 @@ Postman (Update Version as soon as you run your project)
 - Spring Boot
 - Java community
 
-#### To Do List
-
-`Add Hyperlinks`
-
-`Add Tutorial & Video context`
-
-`Add Documentation`
-
-`Add Comments`
-
-`Start Coding`
-
-`UML Diagram`
-
-`Security check`
-
-`UI/UX Design`
-
 
 Writing more and more.
 
