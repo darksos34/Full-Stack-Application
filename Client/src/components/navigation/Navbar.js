@@ -74,7 +74,7 @@ export default function ButtonAppBar() {
                 href="https://github.com/darksos34/Full-Stack-Application"
                 target="_blank"
                 rel="noopener noreferrer"
-            ><img src={ Background }  alt="app"/>
+            >
                 Created by DarkSoS
 
             </a>

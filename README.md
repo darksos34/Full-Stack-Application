@@ -18,7 +18,6 @@
 
 
 #### FRONT-END
-
 - HTML5
 - CSS3
 - JS (Update Version as soon as you run your project)
