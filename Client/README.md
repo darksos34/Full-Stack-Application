@@ -69,6 +69,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
+# Security Update Github BOT
+
+``npm i node-forge``
+
+[node-forge](https://www.npmjs.com/package/node-forge)
+
+vulnerability found in client/package-lock.json 
+
+
 
 ![Mobile print screen Navbar](https://raw.githubusercontent.com/darksos34/Full-Stack-Application/master/Images/Mobile%20samsung%20S5%20%20Printscreen%20Responsive.png)
 
