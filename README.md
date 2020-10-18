@@ -1,6 +1,8 @@
 # Full Stack Application Basic
 
-Updated on 19-09-2020
+Updated on 18-10-2020
+
+
 
 #### BACK-END
 - Java 11
