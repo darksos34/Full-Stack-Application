@@ -1,3 +1,7 @@
+# Security Update  on 21-10-2020
+- security update frontend
+- npm i object-path
+- npm i react-scripts@3.4.4
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
