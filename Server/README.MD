@@ -1,7 +1,7 @@
 # Server - BACK-END
 
 
-Using Java as primaire language in the back-end to create logica.
+Using Java as primary language in the back-end to create logica.
 - Get User
 - Post User
 - Delete User
