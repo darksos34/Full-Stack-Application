@@ -1,7 +1,10 @@
 # Security Update  on 21-10-2020
 - security update frontend
 - npm i object-path
-- npm i react-scripts@3.4.4
+- npm i react-scripts@3.4.4 
+
+It is possible you have to use this code script.
+- npm audit fix
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
