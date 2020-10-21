@@ -1,6 +1,8 @@
 # Full Stack Application Basic
 
-Updated on 18-10-2020
+* Created on 29-07-2020
+
+* Updated on 21-10-2020
 
 
 
