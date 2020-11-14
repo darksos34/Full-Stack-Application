@@ -18,11 +18,11 @@ function App ()  {
     return (
         <>
             <div className="App">
-                <ExampleNav/>
+
                 <Navbar/>
                 <HomePage/>
 
-
+                <ExampleNav/>
 
             </div>
         </>
