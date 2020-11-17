@@ -37,14 +37,6 @@ const Jordy = () => {
 
     return (
         <>
-            {/* comment
-            hardcoded:
-            - Card will display who I am.
-            - Age will be auto updated every year
-            - City
-
-
-            */}
             <Grid item xs={12} sm={6}>
                 <Paper className={classes.paper}><h4>Jordy Hamwijk</h4>
                     <hr />
