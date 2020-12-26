@@ -1,3 +1,7 @@
+# Medium Security Update client-side 25th december 2020
+Dependency node-notifier from version 8.0.0 to 9.0.0
+npm i node-notifier
+
 # Security Update  on 21-10-2020
 - security update frontend
 - npm i object-path
