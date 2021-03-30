@@ -2,7 +2,7 @@
 
 * Created on 29-07-2020
 
-* Updated on 16-03-2021
+* Updated on 30-03-2021
 
 
 
@@ -11,13 +11,13 @@
 - Spring boot
 - PostgreSQL || MongoDB == NoSQL
 - NodeJs
-    
+
   @SQL databases are table based databases.<br>
-  @NoSQL databases can be document based, key-value pairs, graph databases. 
-  
+  @NoSQL databases can be document based, key-value pairs, graph databases.
+
   @SQL databases are vertically scalable.
   @NoSQL databases are horizontally scalable.
-   
+
   @SQL databases have a predefined schema.
   @NoSQL databases use a dynamic schema for unstructured data.
 
@@ -59,11 +59,11 @@ How do I start my projects?
 Start by getting free components and start building a fresh application.<br>
 After building a project try to destructure your components.<br>
 Just change your code, but do not forgot to keep your code clean.<br>
-Do not make a spaghetti-code.  
+Do not make a spaghetti-code.
 
 Keep on moving forward, every moment you learn a new skill, that means you are making progress.
 
-Of course, you need to keep on repeating and testing your own code if it is what you expected. 
+Of course, you need to keep on repeating and testing your own code if it is what you expected.
 
 
 Support Readme will be added for more info and a guideline.
