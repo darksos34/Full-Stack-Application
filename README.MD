@@ -1,10 +1,7 @@
 # Full Stack Application Basic
 
 * Created on 29-07-2020
-
 * Updated on 08-04-2021
-
-
 
 #### BACK-END
 - Java 11
@@ -21,8 +18,6 @@
   @SQL databases have a predefined schema.
   @NoSQL databases use a dynamic schema for unstructured data.
 
-
-
 #### FRONT-END
 - HTML5
 - CSS3
@@ -36,8 +31,6 @@
 IntelliJ IDEA 2020.3
 
 Postman (Update Version as soon as you run your project)
-
-
 
 #### Recourse's
 - StackOverFlow
@@ -69,10 +62,6 @@ Of course, you need to keep on repeating and testing your own code if it is what
 Support Readme will be added for more info and a guideline.
 
 
-
 [Front-end](https://github.com/darksos34/Full-Stack-Application/tree/master/Client)
 
 [Back-end](https://github.com/darksos34/Full-Stack-Application/tree/master/Server)
-
-
-
