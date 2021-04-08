@@ -26,14 +26,4 @@ public interface UserRepository extends JpaRepository<User, Long> {
 
     User findByEmail(String email);
 
-
-    //Modified from here
-
-    // modify this file to your own code
-
-//    @Transactional // let's all statements be executed on readonly data
-//    @Modifying // lets query  execute INSERT, UPDATE, DELETE and DDL queries
-//    @Query("UPDATE User u SET u.password = :password WHERE u.id = :userId") // updates a user's password
-//    void updatePassword(@Param("password") String password, @Param("userId") Long userId);
-
 }

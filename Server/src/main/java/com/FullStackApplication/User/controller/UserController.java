@@ -1,4 +1,3 @@
-
 /*
  *
  *  * Coding for fun created by Darksos34.
@@ -7,19 +6,17 @@
  *  * Learning Computer Language.
  *
  */
-
 package com.FullStackApplication.User.controller;
-
 import com.FullStackApplication.User.model.User;
 import com.FullStackApplication.User.service.UserService;
+
 import lombok.RequiredArgsConstructor;
+
 import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
 import java.util.List;
 import java.util.Optional;
-
-
 
 @RequiredArgsConstructor // Lombok to create the Required Args Constructor
 @CrossOrigin(origins="http://localhost:3000", maxAge = 3600) // Cross origin allowed for port 3000

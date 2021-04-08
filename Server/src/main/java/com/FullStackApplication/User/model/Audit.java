@@ -6,7 +6,6 @@
  *  * Learning Computer Language.
  *
  */
-
 package com.FullStackApplication.User.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
