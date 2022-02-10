@@ -1,7 +1,9 @@
 # Full Stack Application Basic
 
 * Created on 29-07-2020
-* Updated on 30-09-2021
+* Updated on 10-02-2022
+* Backend  Updated on 10-02-2022
+* Frontend Updated on 10-02-2022 
 
 #### BACK-END
 - Java 11
