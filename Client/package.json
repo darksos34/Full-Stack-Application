@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "@material-ui/icons": "^4.9.1",
-    "axios": "^0.28.0",
+    "axios": "^1.8.2",
     "immer": "^9.0.12",
     "normalize-url": "4.5.1",
     "nth-check": "^2.0.1",
